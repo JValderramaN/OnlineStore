@@ -188,7 +188,7 @@ class ResultsViewController: UIViewController {
                 label.backgroundColor = UIColor.grayColor()
         }
         
-    
+     
         return label
     }
     
